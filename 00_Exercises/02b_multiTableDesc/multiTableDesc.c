@@ -39,7 +39,7 @@ void PrintUsageMessage(void)
 
 void PrintMultiTable( int tableLimit )
 {
-	for(int i = tableLimit; i >= 1; i--)
+	for(int i = 1; i <= tableLimit; i++)
 	{
 		for(int j = tableLimit; j >= 1; j--)
 		{
