@@ -1,3 +1,7 @@
+//Team:
+//Adrian Bodenstein
+//Donat Ruettimann
+
 #include <stdio.h>
 #include <stdlib.h>
 
